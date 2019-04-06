@@ -15,7 +15,6 @@ Esse projeto visa aplicar o problema do caixeiro viajante no contexto de marte, 
 
 ```shell
 $ git clone https://github.com/projeto-de-algoritmos/grafo_lista1_Ariel_e_Marcelo
-$ aaaaaaaa
-$ aaaaaaaaaaaaaaaaa
+$ go run main.go
 ```
 obs: Para executar a aplicação é necessário a instalação do [go](https://golang.org/doc/install) e [gocv](https://gocv.io/getting-started/).
